@@ -303,7 +303,7 @@ while True:
 ```
 
 ## Hasil Output Praktikum 5
-![gambar output](gambar/hasilpraktikum5.png)
+![gambar output](isi%20foto/hasil%20praktikum5.png)
 
 ## Hasil Database Dari Inputan  Praktikum 5
 ![gambar output](gambar/database5.png)
