@@ -79,7 +79,7 @@ print(30*"═")
 
 ## Soal Praktikum 5
 
-![gambar output](gambar/soalpraktikum5.png)
+![gambar output](isi%20foto/soal%20praktikum5.png)
 
 ## PenjelasanPraktikum 5
 
