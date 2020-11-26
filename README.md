@@ -16,7 +16,7 @@
 
 ### TugasLatihan 5 
 
-![gambar output](gambar/soallatihan5.PNG)
+![gambar output](isi%20foto/soal%20latihan5.png)
 
 ## Source Code Latihan 5
 ```python
